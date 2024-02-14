@@ -1,0 +1,6 @@
+Given a list of numbers return the smallest list of ranges in the array.
+
+Input: [0, 1, 2, 4, 5, 7]
+Output: ["0->2", "4->5", "7"]
+
+Clarifications: Array already sorted, no duplicates, allow negative numbers.

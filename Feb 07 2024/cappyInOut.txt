@@ -1,0 +1,9 @@
+Given a list of events where each event is given as a tuple. (cappy, action)
+
+Return True if the sequence of events is possible, False otherwise
+
+actions_1 = [('spot', 'in'), ('spot', 'out'), ('spot', 'in'), ('spot', 'out')]
+result_1 = True
+
+actions_4 = [('spot', 'in'), ('clifford', 'in'), ('spot', 'out'), ('clifford', 'out'), ('bluey', 'in')]
+result_1 = True

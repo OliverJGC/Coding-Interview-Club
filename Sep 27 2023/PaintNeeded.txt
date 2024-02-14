@@ -1,0 +1,6 @@
+Leocappy Davinci is planning on painting a skyline. Find the minimum
+amount of paint needed to paint all the buildings.
+
+Input: [[2, 4, 5], [3, 6, 4], [3, 5, 7]]
+Output: 30
+

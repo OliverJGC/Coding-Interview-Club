@@ -1,0 +1,13 @@
+Cappy always wants to be comfortable which is why they only
+type comfortable words. A comfortable word is a word you can
+type always alternating the hand you type with. Determine if the
+Cappy can type the given word.
+
+Left: q, w, e, r, t, a, s, d, f, g, z, x, c, v, b
+Right: y, u, i, o, p, h, j, k, l, n, m
+
+Input: yams
+Output: true
+
+Input: cappy
+Output: false
